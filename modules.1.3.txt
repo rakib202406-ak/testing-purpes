@@ -1,0 +1,9 @@
+some modules :
+
+os 
+sys 
+turtil
+pyfiglet
+socket
+requests
+hashlib
